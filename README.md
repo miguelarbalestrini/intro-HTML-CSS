@@ -1,20 +1,20 @@
 # intro-HTML-CSS
 
 ## HTML
-    - https://developer.mozilla.org/es/docs/Web/HTML
-    - https://www.w3schools.com/html/
-    - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-    - https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
-    - https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
-    - https://marketplace.visualstudio.com/items?itemName=CelianRiboulet.webvalidator
+- https://developer.mozilla.org/es/docs/Web/HTML
+- https://www.w3schools.com/html/
+- https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+- https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
+- https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+- https://marketplace.visualstudio.com/items?itemName=CelianRiboulet.webvalidator
 
-    - https://youtu.be/MJkdaVFHrto
+- https://youtu.be/MJkdaVFHrto
 
 ## CSS
-    - https://developer.mozilla.org/es/docs/Web/CSS
-    - https://www.w3schools.com/css/default.asp
-    - https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
-    - https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion
-    - https://coolors.co/
+- https://developer.mozilla.org/es/docs/Web/CSS
+- https://www.w3schools.com/css/default.asp
+- https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
+- https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion
+- https://coolors.co/
 
-    - https://youtu.be/wZniZEbPAzk
+- https://youtu.be/wZniZEbPAzk
