@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- Estructura repititiva: 
+            header
+            main - section
+            footer 
+    -->
+
+    <!-- creamos un header -->
+    <header>
+        <h1>Intro HTML y CSS</h1>
+        <!-- este es un nav -->
+        <nav>
+            <ul>
+                <li><a href="./index.html">Home</a></li>
+                <li><a href="./pages/listas.html">Ejemplo de listas</a></li>
+                <li><a href="#">tercer link</a></li>
+            </ul>
+        </nav>
+    </header>
+    <!-- creamos un contenido principal para el main -->
+    <main>
+        <!-- dividimos en secciones -->
+        <section class="fondoMarron anchoMediano">
+            <h2>Etiqueta a</h2>
+            <a href="https://www.coderhouse.com/proyectos">Link normal a Coder!</a>
+            <br>
+            <a href="https://www.coderhouse.com/proyectos" target="_blank" rel="noopener noreferrer">link con en pestaña
+                nueva a
+                coder!</a>
+        </section>
+        <!-- dividimos en secciones -->
+        <section id="fondoAzul" class="fondoMarron">
+            <h2>Ejemplo de p, img e iframe</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere eius minima architecto animi molestias,
+                placeat
+                aliquid dolores consequatur unde deleniti corporis ullam aut, ipsa facilis commodi tenetur distinctio
+                eveniet
+                sit?
+            </p>
+            <div>
+                <img src="./html-vs-css.png" alt="ejemplo de diferencia entre html y css">
+                <img src="https://picsum.photos/200" alt="imagen genérica de lorem picsum">
+            </div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/MJkdaVFHrto"
+                title="YouTube video player"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen>
+            </iframe>
+        </section>
+    </main>
+    <section>
+        <h2>Ejemplo article</h2>
+        <article>
+            <h3>entrada de un blog</h3>
+            <img src="https://picsum.photos/200" alt="imagen genérica de lorem picsum">
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempora doloribus perspiciatis veritatis eum
+                distinctio quas deleniti alias, officiis reiciendis corrupti aliquid neque sed autem excepturi hic
+                eveniet debitis, laudantium fuga.
+            </p>
+        </article>
+    </section>
+    <footer class="fondoMarron">
+        <div>
+            <a href="https://www.coderhouse.com/proyectos" target="_blank" rel="noopener noreferrer"><img
+                    src="https://picsum.photos/201" alt="imagen genérica de lorem picsum"></a>
+            <a href="https://www.coderhouse.com/proyectos" target="_blank" rel="noopener noreferrer"><img
+                    src="https://picsum.photos/202" alt="imagen genérica de lorem picsum"></a>
+            <a href="https://www.coderhouse.com/proyectos" target="_blank" rel="noopener noreferrer"><img
+                    src="https://picsum.photos/203" alt="imagen genérica de lorem picsum"></a>
+        </div>
+
+    </footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    background-color: yellowgreen;
+}
+
+.fondoMarron {
+    background-color: brown;
+}
+
+#fondoAzul {
+    background-color: blue;
+}
+
+/* section {
+    background-color: red;
+} */
+
+.anchoMediano {
+    width: 400px;
+    height: 200px;
+    margin-left: 200px;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+
