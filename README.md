@@ -8,8 +8,13 @@
     - https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
     - https://marketplace.visualstudio.com/items?itemName=CelianRiboulet.webvalidator
 
+    - https://youtu.be/MJkdaVFHrto
+
 ## CSS
     - https://developer.mozilla.org/es/docs/Web/CSS
     - https://www.w3schools.com/css/default.asp
     - https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
     - https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion
+    - https://coolors.co/
+
+    - https://youtu.be/wZniZEbPAzk
